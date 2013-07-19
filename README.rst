@@ -20,7 +20,7 @@ Usage
 ::
 
     from django.db import models
-    from sluggee import slugify
+    from sluggee.utils import slugify
 
     class Entry(models.Model):
         title = models.CharField(max_length=100)
