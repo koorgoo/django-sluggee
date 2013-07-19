@@ -12,7 +12,7 @@ Installation
 ^^^^^^^^^^^^
 ::
 
-    pip install git+ssh://git@github.com/koorgoo/django-sluggee.git#egg=django-sluggee
+    pip install django-sluggee
 ::
 
 Usage
